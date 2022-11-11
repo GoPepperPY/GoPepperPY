@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at 42 Porto<br>🌱 I’m currently C
+🔭 I’m currently studying at 42 Porto<br>🌱 I’m currently studying C
 
 
 ## 🌐 Socials:
