@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at 42 Porto<br>🌱 I’m currently studying C
-
+🔭 I’m currently studying at [42 Porto](https://www.42porto.com/).
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://pt-pt.facebook.com/people/Gon%C3%A7alo-Pimenta/100004955448433/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pimenta_gonca04) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pimenta_gonca) 
